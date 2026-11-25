@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.appium/
+test-results/
+allure-results/
+coverage/
+.DS_Store
+Thumbs.db
